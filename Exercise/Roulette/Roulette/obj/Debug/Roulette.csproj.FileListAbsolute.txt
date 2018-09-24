@@ -1,0 +1,10 @@
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\bin\Debug\System.ValueTuple.dll
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\bin\Debug\System.ValueTuple.xml
+C:\Users\antho\OneDrive\Desktop\MSSA\ISTA322\Exercises\Roulette\Roulette\obj\Debug\Roulette.csproj.CopyComplete
